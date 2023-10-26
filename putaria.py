@@ -1,0 +1,7 @@
+nome = input('Digite seu nome:')
+idade = int(input('Digit sua Idade:'))
+supino = int(input('Digite seu PR Supino'))
+Terra = int(input('Digite seu PR Terra'))
+print (30*'=')
+print (f'Seu nome de merda em maiusculo é {nome.upper}')
+print (f'Seu terra é de {Terra} e este numero é muito merda a sua idade de {idade}')
